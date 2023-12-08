@@ -9,5 +9,6 @@
 Setup:
 - Sørg for at have alle dependencies
 - Sørg for at du starter Pede-Driveschool-Job efter alle dependencies
+- Importer sqlen
 - Sæt din config op
 - Genstart serveren og hyg dig!
